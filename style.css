@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+}
+
+.Svoistva{font-family: Arial;  }
+
+
+.bcgRed{background: red;}
+	.bcgPinkRed{background: #d60da4}
+	.bcgPink{background: pink;}
+.bcgBlue{background: blue;}
+.bcgYellow{background: yellow;}
+.bcgGreen{background: green;}
+	.bcgSalat{background: #4cba6a}
+	.bcgSalatLight{background: #7ff09e}
+
+
+.mrgCenter{margin-left: auto; margin-right: auto;}
+	.mrgLeft{margin-right: auto;}
+		.textLeft{text-align: left;}
+	.mrgRight{margin-left: auto;}
+		.textRight{text-align: right;}
+
+.DispFlex{display: flex;}
+
+
+.UpPoloska{width: 2500px; height: 150px}
+	.LeftUpPoloska{width: 250px; height: 100px}
+		.VikiTerraria{width: 100px; height: 100px}
+	.CenterUpPoloska{width: 500px }
+
+.DownKvadrat{width: 2100px; height: 900px}
+	.DownKvadratCenter{width: 2850px; height: 850px}
+		.MiniKvadratCenter{width: 1400px; height: 500px}
+			.ImageCraftTool{height: 365px}
+			.TablicaKvadratCenter{width: 775px; height: 325px}
+				.PoloskaTablica{width: 800px; height: 155px}
+				.PoloskaTablicaKorot{width: 490px; height: 155px}
+				.PoloskaTablicaLong{width: 1060px; height: 155px}
+					.KvadratTablica{width: 95px; height: 150px; border: solid black 5px; transition: 0.3s}
+					.PramygolnikTablica{width: 290px; height: 150px; border: solid black 5px; transition: 0.3s}
+						.KvadratTablica:hover{width: 100px; height: 150px; border: solid black 8px;
+							background: #fa6bd9}
+						.PramygolnikTablica:hover{width: 295px; height: 155px; border: solid black 8px;
+							background: #fa6bd9}	
+						.ImageOfBoss{width: 85px; height: 100px}
+						.ImageBoss{width: 75px; height: 75px}
+							.ImageBossTwo{width: 60px; height: 60px}
+							.ImageBossSmall{width: 45px; height: 45px}
+
+.TextAlignCenter{text-align: center;}
+
+.mrgDown20{margin-top: 20px}
+	.mrgDown25{margin-top: 25px}
+	.mrgDown50{margin-top: 50px}
+.mrgRight20{margin-left: 20px}
+	.mrgRight200{margin-left: 200px}
+.mrgTop20{margin-bottom: 20px}
+	.mrgTop0{margin-bottom: 0px}
+.mrgLeft20{margin-right: 20px}
+
+.padBottom100{padding-top: 100px}
+.padBottom200{padding-top: 200px}
+
+.wdth100hgt100{width: 100%; height: 100%}
+
+.borderBlack5px{border: solid black 5px;}
+
+.TextSize43{font-size: 43px}
+.TextBold{font-weight: bold;}
+
+.gap25{gap: 25px}
+.gap20{gap: 20px}
+.gap10{gap: 10px}
+.gap5{gap: 5px}
+
+.borderRadius20{border-radius: 20px}
+
+.text-red{color: red;}
+
